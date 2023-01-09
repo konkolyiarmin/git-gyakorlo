@@ -18,3 +18,7 @@
 ## 6- állapot é slog lekérdezése
 - git status
 - git log
+## 7. lokális változtatások szinkronizálássa a távoli repba
+- git push
+## 8. távoli repó másolása a helyi repóba
+- git clone "távoli repó url címe"
