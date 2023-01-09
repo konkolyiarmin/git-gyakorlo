@@ -1,7 +1,7 @@
 # verziókezelés alapjai
 ## 1. git letöltés
 - [git for windows](https://gitforwindows.org/)
-- [git scm]
+- git scm
 ## 2. konfigurációs parancsok
 - git config --global user.name
 - git config --global user.email
