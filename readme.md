@@ -15,7 +15,7 @@
 - git add .   (összes állományés mappa hozzáadása)
 ## 5. állapotfelvétel (commit) készítése
 - git commit -m "commit message"
-## 6- állapot é slog lekérdezése
+## 6. állapot és log lekérdezése
 - git status
 - git log
 ## 7. lokális változtatások szinkronizálássa a távoli repba
