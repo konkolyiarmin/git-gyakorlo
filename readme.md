@@ -15,3 +15,6 @@
 - git add .   (összes állományés mappa hozzáadása)
 ## 5. állapotfelvétel (commit) készítése
 - git commit -m "commit message"
+## 6- állapot é slog lekérdezése
+- git status
+- git log
