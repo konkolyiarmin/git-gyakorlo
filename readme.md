@@ -34,3 +34,7 @@
 - git checkout másik_ág_neve
 > ágak törlése 
 - git branch -d ág_neve
+> változások átvezetése
+- git checkout ahovakerulnekavaltozasok
+- git merge ahonnan-athozzuk-a-valtozasokat
+- 
